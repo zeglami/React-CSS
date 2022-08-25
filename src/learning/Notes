@@ -1,0 +1,9 @@
+#service-image{
+   /*units: px , pc,cm,pt 
+   
+   width: 70%;    70 % of sceen  width
+   
+   */
+    height: 400px; 
+    width: 70%;
+}
